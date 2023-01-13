@@ -2,11 +2,10 @@
 ## NAME_OF_YOUR_APP_HERE
 
 ### App Description
-
-`TODO://` Add app description
+An introduction app that allow user to input their information to automate a self introduction by clicking the button 
 
 ### App Walk-though
- <img src="ezgif.com-gif-maker (5).gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> 
+ <img src="ezgif.com-gif-maker (5).gif" width=200><br> 
 
 `TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
