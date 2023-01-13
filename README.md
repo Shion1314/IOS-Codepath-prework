@@ -1,5 +1,4 @@
 # IOS-Codepath-prework
-## NAME_OF_YOUR_APP_HERE
 
 ### App Description
 An introduction app that allow user to input their information to automate a self introduction by clicking the button 
