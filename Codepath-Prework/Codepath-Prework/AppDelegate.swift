@@ -1,15 +1,14 @@
 //
 //  AppDelegate.swift
-//  IOS
+//  Codepath-Prework
 //
-//  Created by Jiaxin Lin on 1/9/23.
+//  Created by Jiaxin Lin on 1/13/23.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-    
 
 
 
