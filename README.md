@@ -7,7 +7,7 @@
 
 ### App Walk-though
 
-![](https://i.imgur.com/JL1snRo.gif)
+![](ezgif.com-gif-maker (5).gif)
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
