@@ -37,7 +37,7 @@ class ViewController: UIViewController {
         
     }
     @IBAction func ButtonClicked(_ sender: UIButton) {
-        petStepper.isHidden=true
+       
         let year = yearSegmentedControl.titleForSegment(at: yearSegmentedControl.selectedSegmentIndex)
         var F_anime=""
         if animeSwitch.isOn{
