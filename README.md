@@ -6,8 +6,6 @@ An introduction app that allow user to input their information to automate a sel
 ### App Walk-though
  <img src="ezgif.com-gif-maker (5).gif" width=200><br> 
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
