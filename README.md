@@ -4,7 +4,7 @@
 An introduction app that allow user to input their information to automate a self introduction by clicking the button 
 
 ### App Walk-though
- <img src="ezgif.com-gif-maker (6).gif" width=200><br> 
+ <img src="Codepath-prework.gif" width=200><br> 
 
 ### Required Features
 
